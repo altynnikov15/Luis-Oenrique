@@ -1,11 +1,11 @@
 
-$(window).scroll(function () {
+/*$(window).scroll(function () {
     if ($(this).scrollTop() > 50) {
         $('.totop a').fadeIn();
     } else {
         $('.totop a').fadeOut();
     }
-});
+});*/
 $(document).ready(function(){
 
     $('.owl-carousel').owlCarousel({
