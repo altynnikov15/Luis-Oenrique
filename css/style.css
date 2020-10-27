@@ -289,15 +289,15 @@ h4 {
     font-size: 12px;
     font-weight: 700; }
 
-.footer {
+.form {
   background-image: url("../images/bg_footer.jpg");
   background-size: cover;
   padding-bottom: 4px; }
-  .footer h2 {
+  .form h2 {
     padding-bottom: 70px;
     padding-top: 170px;
     color: #f0f0f0; }
-    .footer h2:before {
+    .form h2:before {
       content: "";
       display: block;
       width: 60px;
@@ -381,8 +381,7 @@ footer {
 .p_foot {
   font-family: 'Asap', sans-serif;
   font-size: 16px;
-  color: white;
-  margin-bottom: -18px; }
+  color: white; }
   @media only screen and (max-width: 767px) {
     .p_foot {
       padding-top: 15px; } }
